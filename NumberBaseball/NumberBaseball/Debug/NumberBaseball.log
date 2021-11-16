@@ -1,0 +1,3 @@
+﻿  main.c
+C:\Users\eogus\source\repos\NumberBaseball\NumberBaseball\main.c(57,13): warning C4098: 'ranking': 'void' 함수에서 값을 반환하고 있습니다.
+  NumberBaseball.vcxproj -> C:\Users\eogus\source\repos\NumberBaseball\Debug\NumberBaseball.exe
