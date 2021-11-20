@@ -1,8 +1,12 @@
 ﻿  main.c
-C:\Users\eogus\OneDrive\문서\OpenSource_Basic_Project_2021\NumberBaseball\NumberBaseball\main.c(53,13): warning C4098: 'menu': 'void' 함수에서 값을 반환하고 있습니다.
-C:\Users\eogus\OneDrive\문서\OpenSource_Basic_Project_2021\NumberBaseball\NumberBaseball\main.c(69,25): warning C4244: '함수': 'time_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
-C:\Users\eogus\OneDrive\문서\OpenSource_Basic_Project_2021\NumberBaseball\NumberBaseball\main.c(63,9): warning C4101: 'computer' :참조되지 않은 지역 변수입니다.
-C:\Users\eogus\OneDrive\문서\OpenSource_Basic_Project_2021\NumberBaseball\NumberBaseball\main.c(61,9): warning C4101: 'player' :참조되지 않은 지역 변수입니다.
-C:\Users\eogus\OneDrive\문서\OpenSource_Basic_Project_2021\NumberBaseball\NumberBaseball\main.c(94,13): warning C4098: 'record': 'void' 함수에서 값을 반환하고 있습니다.
-C:\Users\eogus\OneDrive\문서\OpenSource_Basic_Project_2021\NumberBaseball\NumberBaseball\main.c(114,13): warning C4098: 'ranking': 'void' 함수에서 값을 반환하고 있습니다.
+C:\Users\eogus\OneDrive\문서\OpenSource_Basic_Project_2021\NumberBaseball\NumberBaseball\main.c(53,21): warning C4244: '함수': 'time_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\eogus\OneDrive\문서\OpenSource_Basic_Project_2021\NumberBaseball\NumberBaseball\main.c(83,13): warning C4098: 'menu': 'void' 함수에서 값을 반환하고 있습니다.
+C:\Users\eogus\OneDrive\문서\OpenSource_Basic_Project_2021\NumberBaseball\NumberBaseball\main.c(89,9): warning C4101: 'a' :참조되지 않은 지역 변수입니다.
+C:\Users\eogus\OneDrive\문서\OpenSource_Basic_Project_2021\NumberBaseball\NumberBaseball\main.c(145,13): warning C4098: 'record': 'void' 함수에서 값을 반환하고 있습니다.
+C:\Users\eogus\OneDrive\문서\OpenSource_Basic_Project_2021\NumberBaseball\NumberBaseball\main.c(135,10): warning C4101: 'getstr' :참조되지 않은 지역 변수입니다.
+C:\Users\eogus\OneDrive\문서\OpenSource_Basic_Project_2021\NumberBaseball\NumberBaseball\main.c(171,13): warning C4098: 'writing_record': 'void' 함수에서 값을 반환하고 있습니다.
+C:\Users\eogus\OneDrive\문서\OpenSource_Basic_Project_2021\NumberBaseball\NumberBaseball\main.c(155,10): warning C4101: 'str' :참조되지 않은 지역 변수입니다.
+C:\Users\eogus\OneDrive\문서\OpenSource_Basic_Project_2021\NumberBaseball\NumberBaseball\main.c(226,48): warning C4244: '+=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\eogus\OneDrive\문서\OpenSource_Basic_Project_2021\NumberBaseball\NumberBaseball\main.c(236,50): warning C4244: '-=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\eogus\OneDrive\문서\OpenSource_Basic_Project_2021\NumberBaseball\NumberBaseball\main.c(266,57): warning C4305: '+=': 'double'에서 'float'(으)로 잘립니다.
   NumberBaseball.vcxproj -> C:\Users\eogus\OneDrive\문서\OpenSource_Basic_Project_2021\NumberBaseball\x64\Debug\NumberBaseball.exe
